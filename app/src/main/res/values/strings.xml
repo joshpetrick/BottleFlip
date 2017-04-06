@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bottle FlipWorx</string>
+
+    <string name="dev_list">Choose a Device</string>
+
+    <string-array name="device_array">
+        <item>50:EF:14:A2:78:84</item>
+        <item>50:EF:14:A2:78:83</item>
+        <item>50:EF:14:A2:78:82</item>
+        <item>50:EF:14:A2:78:81</item>
+        <item>50:EF:14:A2:78:8</item>
+        <item>F0:EF:14:A2:78:84</item>
+    </string-array>
+</resources>
